@@ -12,7 +12,7 @@ Play exige una URL de política de privacidad en la ficha de cada aplicación, y
 | GWBW Phaser demo | `es.luisquin.gwbwphaser` | `gwbw-phaser-demo.html` |
 | Mariano versus Zombies | `es.luisquin.zombiescavenger` | `mariano-versus-zombies.html` |
 
-Base: `https://<usuario>.github.io/carpentersoft-privacy/`
+Base: `https://plissken2013es.github.io/carpentersoft-privacy/`
 
 ## Publicar por primera vez
 
@@ -22,7 +22,7 @@ Base: `https://<usuario>.github.io/carpentersoft-privacy/`
 ```bash
 git add -A && git commit -m "Políticas de privacidad de Carpenter Soft"
 git branch -M main
-git remote add origin https://github.com/<usuario>/carpentersoft-privacy.git
+git remote add origin https://github.com/plissken2013es/carpentersoft-privacy.git
 git push -u origin main
 ```
 
