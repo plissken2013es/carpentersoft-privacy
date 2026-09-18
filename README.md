@@ -11,6 +11,7 @@ Play exige una URL de política de privacidad en la ficha de cada aplicación, y
 | La Cuenta Atrás | `es.luisquin.cuentaatras` | `cuenta-atras.html` |
 | GWBW Phaser demo | `es.luisquin.gwbwphaser` | `gwbw-phaser-demo.html` |
 | Mariano versus Zombies | `es.luisquin.zombiescavenger` | `mariano-versus-zombies.html` |
+| Road Rage Overdrive | `es.luisquin.roadrageoverdrive` | `road-rage-overdrive.html` |
 
 Base: `https://plissken2013es.github.io/carpentersoft-privacy/`
 
