@@ -10,6 +10,7 @@ Play exige una URL de política de privacidad en la ficha de cada aplicación, y
 |---|---|---|
 | La Cuenta Atrás | `es.luisquin.cuentaatras` | `cuenta-atras.html` |
 | GWBW Phaser demo | `es.luisquin.gwbwphaser` | `gwbw-phaser-demo.html` |
+| I must call my grandmother | `es.luisquin.mustcallgranny` | `i-must-call-my-grandmother.html` |
 | Mariano versus Zombies | `es.luisquin.zombiescavenger` | `mariano-versus-zombies.html` |
 | Road Rage Overdrive | `es.luisquin.roadrageoverdrive` | `road-rage-overdrive.html` |
 
@@ -48,7 +49,7 @@ git push -u origin main
 ## En Play Console, por cada aplicación
 
 - **Política de privacidad**: Contenido de la aplicación › Política de privacidad → pegar la URL.
-- **Seguridad de los datos**: para estas tres, "no se recogen ni comparten datos". El récord y el idioma de *Mariano versus Zombies* se guardan solo en el dispositivo, así que no cuentan como recogida.
+- **Seguridad de los datos**: para todas, "no se recogen ni comparten datos". El récord y el idioma de *Mariano versus Zombies* se guardan solo en el dispositivo, así que no cuentan como recogida.
 - Además piden: clasificación de contenido, público objetivo, declaración de anuncios (ninguna tiene) y la sección de aplicaciones gubernamentales y financieras.
 
 ## Pendiente
